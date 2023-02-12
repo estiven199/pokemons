@@ -15,7 +15,7 @@ Construir un modelamiento de datos que consuma la API de [Pokemons](https://poke
 - [Uso](#uso)
 
 ## Preparacion
-- Instalar Docker y Docker Compose en su sistema local siguiendo las instrucciones proporcionadas en la   [documentación oficial de Docker ](https://docs.docker.com/) o puedes ver este [video tutorial](https://www.faztweb.com/contenido/doker-desktop-windows) .
+- Instalar Docker y Docker Compose en su sistema local siguiendo las instrucciones proporcionadas en la   [documentación oficial de Docker ](https://docs.docker.com/) o puedes ver este [video tutorial](https://www.faztweb.com/contenido/doker-desktop-windows)  `Opcional`.
 - Instalar un editor de código. [Visual Studio Code](https://code.visualstudio.com).
 - Tener una cuenta de usuario en [GitHub](https://github.com/).
 
